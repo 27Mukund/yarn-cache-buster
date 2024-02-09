@@ -1,4 +1,4 @@
-# React Cache Buster
+# React Cache Buster By Mukund
 
 [![NPM](https://img.shields.io/npm/v/react-cache-buster.svg)](https://www.npmjs.com/package/react-cache-buster)
 [![BundlePhobia](https://img.badgesize.io/https:/cdn.jsdelivr.net/npm/react-cache-buster?compression=gzip)](https://bundlephobia.com/package/react-cache-buster)
